@@ -4,3 +4,6 @@ Service
 Galley
 About
 Contact
+ 
+ Dark mode
+ video
