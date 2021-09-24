@@ -1,0 +1,6 @@
+This is chat application
+home 
+Service
+Galley
+About
+Contact
